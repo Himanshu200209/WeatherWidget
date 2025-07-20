@@ -1,12 +1,23 @@
-# React + Vite
+# 🌦️ Weather Widget
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive weather application built with **React.js** and **Material UI** that fetches real-time weather data using the OpenWeatherMap API. Displays temperature, humidity, min/max temperature, and weather conditions based on user input.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+[https://weather-widget-xi-two.vercel.app](https://weather-widget-xi-two.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- React.js
+- Material UI
+- OpenWeatherMap API
+- CSS
 
-## Expanding the ESLint configuration
+## 🔧 Features
+- Search weather by city
+- Displays temperature, humidity, min/max temp
+- Weather icons (sunny, cold, rainy)
+- Responsive layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+```bash
+npm install
+npm start
