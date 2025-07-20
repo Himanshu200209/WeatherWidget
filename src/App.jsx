@@ -1,5 +1,5 @@
 
-import "./app.css"
+import "./App.css"
 import InfoBox from "./infoBox"
 import SearchBox from "./SearchBox"
 import WeatherApp from "./WeatherApp"
