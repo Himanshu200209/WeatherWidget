@@ -7,7 +7,7 @@ import AcUnitIcon from '@mui/icons-material/AcUnit';
 import ThunderstormIcon from '@mui/icons-material/Thunderstorm';
 import SunnyIcon from '@mui/icons-material/Sunny';
 
-export default function infoBox({info}) {
+export default function InfoBox({info}) {
 
   const INIT_URL="https://images.search.yahoo.com/search/images;_ylt=Awr.1a01CnJockAGYB9XNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210US885G0&p=rainy+wweather&fr=mcafee&th=265&tw=474&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F042%2F146%2F565%2Fnon_2x%2Fai-generated-beautiful-rain-day-view-photo.jpg&rurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Frainy-weather&size=189KB&name=Rainy+Weather+Stock+Photos%2C+Images+and+Backgrounds+for+Free+Download&oid=2&h=980&w=1749&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.5fI8VxCcsJoQ2QL5stbS-gHaEJ%3Fpid%3DApi&tt=Rainy+Weather+Stock+Photos%2C+Images+and+Backgrounds+for+Free+Download&sigr=443bJX7Gjvua&sigit=9APdwDzQduqj&sigi=Z2h8Viq61_dF&sign=1Rx0JmN4kQfG&sigt=1Rx0JmN4kQfG";
 
